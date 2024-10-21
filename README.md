@@ -11,10 +11,15 @@ Sales is one of the fields that requires close monitoring of performance. Howeve
 - Prefer using bookmark and button switch pages (if anny)
 
 # **Demo Destop View** 
+
 https://github.com/user-attachments/assets/89264a80-c5f1-46ab-8b0b-5a1285ca7ea7
+
 https://github.com/user-attachments/assets/5ba2158c-200b-4032-a68c-bf149d3d243c
+
 # **Demo Mobile View** 
+
 https://github.com/user-attachments/assets/2013ca05-d0f6-4da9-b253-a0dced853637
+
 https://github.com/user-attachments/assets/c1b8b803-ff7c-4d8a-b986-f050348b4222
 
 
