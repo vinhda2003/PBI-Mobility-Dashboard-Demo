@@ -22,4 +22,18 @@ https://github.com/user-attachments/assets/2013ca05-d0f6-4da9-b253-a0dced853637
 
 https://github.com/user-attachments/assets/c1b8b803-ff7c-4d8a-b986-f050348b4222
 
+# **Guidline building Dashboard** 
+**Switch parameter**
+![image](https://github.com/user-attachments/assets/43d2bcac-7bda-418a-93a3-39533f3f3acb)
 
+![image](https://github.com/user-attachments/assets/69cb1b6a-ebe9-4d44-99f4-3d4486a08501)
+
+**Bookmark**
+![image](https://github.com/user-attachments/assets/a996b85e-e9cb-4901-ab55-48d6be10c402)
+
+**Change mobile view**
+
+![image](https://github.com/user-attachments/assets/6685eaba-62cd-4a87-87fb-ba6e6d28c38f)
+
+
+# **Thank for reading !**
